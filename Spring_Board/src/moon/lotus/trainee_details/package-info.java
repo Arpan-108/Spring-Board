@@ -1,0 +1,1 @@
+package moon.lotus.trainee_details;
